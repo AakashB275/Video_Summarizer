@@ -90,4 +90,4 @@ Rules:
                 Path(video_path).unlink(missing_ok=True)
 
 else:
-    st.info("Upload a video to begin analysis.")
+    st.info("Upload a video to begin analysis")
